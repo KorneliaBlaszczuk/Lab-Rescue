@@ -21,7 +21,7 @@ As a volunteer content creator, I was responsible for producing engaging digital
 Each folder represents a separate post and contains:
 
 - `post.jpg` or `reel.mp4` — Final graphic or video
-- `caption.txt` — Text used in the social media post
+- `captions.txt` — Text used in the social media post
 
 ## 🎯 Goals
 
